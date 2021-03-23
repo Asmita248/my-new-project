@@ -293,3 +293,92 @@ Release Date: 2017-03-02
 [  2270.947] rdpRRGetPanning: 0x557bb5b8d7b0
 [  2340.483] rdpRRGetPanning: 0x557bb5b8d7b0
 [  2340.493] rdpRRGetPanning: 0x557bb5b8d7b0
+[  2602.655] rdpClientConRecv: g_sck_recv failed(returned 0)
+[  2602.655] rdpClientConDisconnect:
+[  2602.655] rdpClientConDisconnect: clientCon removed from dev list
+[  2602.655] rdpClientConRecvMsg: error
+[  2602.655] rdpClientConCheck: rdpClientConGotData failed
+[  3154.218] rdpSaveScreen:
+[  3222.542] rdpClientConGotConnection:
+[  3222.542] rdpClientConGotConnection: g_sck_accept ok new_sck 17
+[  3222.542] rdpClientConGotConnection: adding only clientCon
+[  3222.544] rdpClientConProcessMsgVersion: version 0 0 0 1
+[  3222.544] rdpClientConProcessScreenSizeMsg: set width 1364 height 657 bpp 16
+[  3222.544] rdpClientConProcessScreenSizeMsg: shmemid 1638424 shmemptr 0x7fcda0d42000
+[  3222.544] rdpClientConProcessMsgClientInput: invalidate x 0 y 0 cx 1364 cy 657
+[  3222.548] rdpClientConProcessMsgClientInfo:
+[  3222.548]   got client info bytes 5792
+[  3222.548]   jpeg support 0
+[  3222.548]   offscreen support 0
+[  3222.548]   offscreen size 0
+[  3222.548]   offscreen entries 0
+[  3222.548]   client supports glyph cache but server disabled
+[  3222.548]   client can not do offscreen to offscreen blits
+[  3222.548]   client can do new(color) cursor
+[  3222.548]   client can not do multimon
+[  3222.548] rdpRRSetRdpOutputs: numCrtcs 1
+[  3222.548] rdpRRSetRdpOutputs: numOutputs 1
+[  3222.548] rdpLoadLayout: keylayout 0x00000409 variant  display 10
+[  3222.548] rdpkeybChangeKeyboardControl:
+[  3222.548] rdpkeybChangeKeyboardControl: autoRepeat on
+[  3222.549] rdpkeybChangeKeyboardControl:
+[  3222.549] rdpkeybChangeKeyboardControl: autoRepeat on
+[  3222.550] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetInfo:
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetInfo:
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.551] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.552] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.552] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.552] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.552] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.553] rdpRRGetInfo:
+[  3222.553] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.553] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.553] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.553] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.554] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.555] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.555] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.556] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.557] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.558] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.559] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.559] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.559] rdpRRGetPanning: 0x557bb5b8d7b0
+[  3222.649] rdpInDeferredUpdateCallback:
+[  3222.649] rdpkeybChangeKeyboardControl:
+[  3222.649] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3222.649] rdpkeybChangeKeyboardControl:
+[  3222.649] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3224.319] rdpSaveScreen:
