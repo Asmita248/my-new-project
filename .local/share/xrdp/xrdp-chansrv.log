@@ -1,0 +1,3 @@
+[20210323-08:51:20] [CORE ] main: app started pid 3880(0x00000f28)
+[20210323-09:02:28] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20210323-09:02:34] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
